@@ -1,0 +1,22 @@
+{
+  "name": "loopstudios",
+  "version": "1.0.0",
+  "description": "![Design preview for the Loopstudios landing page coding challenge](./design/desktop-preview.jpg)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aaronspurgeon/loopstudios.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aaronspurgeon/loopstudios/issues"
+  },
+  "homepage": "https://github.com/aaronspurgeon/loopstudios#readme",
+  "dependencies": {
+    "scss": "^0.2.4"
+  }
+}
